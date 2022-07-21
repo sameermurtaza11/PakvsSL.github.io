@@ -1,0 +1,394 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.container {
+    background-image: url('green_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    min-width: 100%;
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    background-position: center;
+    font-family: calibri;
+}
+
+.container2 {
+    padding: 2%;
+}
+
+.div1 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.div1 img {
+    width: 12%;
+    height: 12%;
+}
+
+.div2{
+    padding-bottom: 4%;
+}
+
+.div2 img {
+    width: 7vw;
+    height: 4.5vw;
+}
+
+#div2-p1{
+    color: white;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 2.8vw;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#div2-p2{
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.8vw;
+    font-weight: normal;
+    text-align: center;
+}
+
+#a-p {
+    font-size: 2.8vw;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#td1-a {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 4vw;
+}
+
+#td1-b {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 7vw;
+}
+
+#td1-c {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 32vw;
+}
+
+#td1-d {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 12vw;
+}
+
+#td2-a {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 4vw;
+}
+
+#td2-b {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 5.5vw;
+}
+
+#td2-c {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 32.2vw;
+}
+
+#td2-d {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 19vw;
+}
+
+#td3-a {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 4vw;
+}
+
+#td3-b {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 10.5vw;
+}
+
+#td3-c {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 32.5vw;
+}
+
+#td3-d {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 12.5vw;
+}
+
+#td4-a {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 4vw;
+}
+
+#td4-b {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 6.5vw;
+}
+
+#td4-c {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 32.5vw;
+}
+
+#td4-d {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 15vw;
+}
+
+#td5-a {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 4vw;
+}
+
+#td5-b {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 6vw;
+}
+
+#td5-c {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 33vw;
+}
+
+#td5-d {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 12vw;
+}
+
+#td6-a {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 4vw;
+}
+
+#td6-b {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 10.2vw;
+}
+
+#td6-c {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 33vw;
+}
+
+#td6-d {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 18vw;
+}
+
+#td7-a {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 4vw;
+}
+
+#td7-b {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 4.5vw;
+}
+
+#td7-c {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 33vw;
+}
+
+#td7-d {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 12.5vw;
+}
+
+#td8-a {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 4vw;
+}
+
+#td8-b {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 11vw;
+}
+
+#td8-c {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 33vw;
+}
+
+#td8-d {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 15vw;
+}
+
+.div3-a {
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+    background-color: darkblue;
+    margin-top: 8px;
+}
+
+.div3-a img {
+    width: 7vw;
+    height: 4vw;
+}
+
+.div3-b {
+    background-color: white;
+    font-size: 1.5vw;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 8px;
+    border-radius: 3px;
+}
+
+.div3-c {
+    background-color: white;
+    font-size: 1.5vw;
+    margin-top: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 3px;
+}
+
+.div4-a {
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+    background-color: rgb(0, 78, 0);
+    margin-top: 8px;
+}
+
+.div4-a img {
+    width: 7vw;
+    height: 4vw;
+}
+
+.div4-b {
+    background-color: white;
+    font-size: 1.5vw;
+    margin-top: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 3px;
+}
+
+.div4-c {
+    background-color: white;
+    font-size: 1.5vw;
+    margin-top: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 3px;
+}
+
+.div5-a {
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+    background-color: darkblue;
+    margin-top: 8px;
+}
+
+.div5-a img {
+    width: 7vw;
+    height: 4vw;
+}
+
+.div5-b {
+    background-color: white;
+    font-size: 1.5vw;
+    margin-top: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 3px;
+}
+
+.div5-c {
+    background-color: white;
+    font-size: 1.5vw;
+    margin-top: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 3px;
+}
+
+.div6-a {
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+    background-color: rgb(0, 78, 0);
+    margin-top: 8px;
+}
+
+.div6-a img {
+    width: 7vw;
+    height: 4vw;
+}
+
+.div6-b {
+    background-color: white;
+    font-size: 1.5vw;
+    margin-top: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 3px;
+}
+
+.div6-c {
+    background-color: white;
+    font-size: 1.5vw;
+    margin-top: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 3px;
+}
+#botm-p{
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.5vw;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 1%;
+}
